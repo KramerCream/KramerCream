@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KramerCream/KramerCream/output/snake.svg" alt="Snake animation" />
+
 
 ###
